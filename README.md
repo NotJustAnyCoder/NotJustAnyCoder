@@ -1,4 +1,4 @@
-## Hello there, I am Max
+## Hello there, I am Max 🛰
 
 <!--
 **NotJustAnyCoder/NotJustAnyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
