@@ -1,6 +1,6 @@
 ## Hello there, I am Max 📡
 - I am currently learning Computer Vision and Stereo Vision, by building my own Depth Camera! 🎥
-- I am trying to build my own model rocket! 🚀
+- I am also trying to build my own model rocket! 🚀
 
 
 <!--
