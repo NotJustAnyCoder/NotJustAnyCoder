@@ -2,6 +2,7 @@
 - I am currently learning Computer Vision and Stereo Vision, by building my own Depth Camera! 🎥
 - I am also trying to build my own model rocket! 🚀
 
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
 <!--
 
