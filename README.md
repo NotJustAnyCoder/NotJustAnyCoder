@@ -1,4 +1,4 @@
-## Hello there, I am Ma
+## Hello there, I am Max&auml;
 - I am currently learning Computer Vision and Stereo Vision, by building my own Depth Camera! 🎥
 - I am also trying to build my own model rocket! 🚀
 
